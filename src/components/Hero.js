@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
-    <div className="bg-gray-800 h-screen flex flex-col justify-center items-center">
+    <div className="bg-gray-800 h-screen flex  justify-center items-center">
       <h1 className="lg:text-9xl md:text-7xl sm:text-5xl text-3xl font-black mbv-14">
-        MEATSELECT
+        MEAT CLUB
       </h1>
       <Link
         className="py-6 px-10 bg-yellow-500 rounded-full text-3xl hover:bg-yellow-200 transition duration-300 ease-in-out flex items-center animate-bounce"
