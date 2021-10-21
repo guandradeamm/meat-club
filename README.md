@@ -6,7 +6,7 @@
 
 ![Meat Club](./assets/img/logo.svg)
 
-> A simple react.js and tailwind CSS website for selling meat to your lovers.
+> A simple react.js and tailwind CSS website for selling meat to your customers.
 
 ---
 
